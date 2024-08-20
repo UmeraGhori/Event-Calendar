@@ -21,6 +21,7 @@ To set up the project locally, follow these steps:
 ### Clone the Repository:
 
 **git clone**(https://github.com/UmeraGhori/Event-Calendar.git)
+
 Navigate to the Project Directory:
 
 cd react-calendar-app
